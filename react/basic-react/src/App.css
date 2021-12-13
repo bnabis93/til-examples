@@ -1,0 +1,11 @@
+.gray-box{
+  background: gray;
+  width: 64px;
+  height: 64px;
+}
+
+.black-box{
+  background: black;
+  width: 64px;
+  height: 64px;
+}
